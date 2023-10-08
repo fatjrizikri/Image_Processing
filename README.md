@@ -1,8 +1,8 @@
 # Image_Processing
-> pip install mediapipe
-> pip install opencv-python
-> sudo pip install numpy
-> sudo pip install math
+- > pip install mediapipe
+- > pip install opencv-python
+- > sudo pip install numpy
+- > sudo pip install math
 ## mediapipe
 ### Pose Landmarks
  Information from https://developers.google.com/mediapipe/solutions/vision/pose_landmarker
