@@ -2,8 +2,10 @@
 pip install mediapipe
 # mediapipe
 # Pose Landmarks
-Information from https://developers.google.com/mediapipe/solutions/vision/pose_landmarker \n
-Features:
+Information from https://developers.google.com/mediapipe/solutions/vision/pose_landmarker
+Features
+Input image processing - Processing includes image rotation, resizing, normalization, and color space conversion.
+Score threshold - Filter results based on prediction scores.
 # sudo pip install opencv-python
 # sudo pip install numpy
 # sudo pip install math
