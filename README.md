@@ -1,7 +1,13 @@
 # Image_Processing
-- > pip install mediapipe
-- > pip install opencv-python
-- > sudo pip install numpy
+```
+pip install mediapipe
+```
+```
+pip install opencv-python
+```
+```
+sudo pip install numpy
+```
 ```
 sudo pip install math
 ```
