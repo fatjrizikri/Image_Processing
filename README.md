@@ -1,5 +1,7 @@
 # Image_Processing
-** pip install mediapipe
+...
+pip install mediapipe
+...
 # mediapipe
 ## Pose Landmarks
  Information from https://developers.google.com/mediapipe/solutions/vision/pose_landmarker
