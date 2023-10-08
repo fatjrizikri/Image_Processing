@@ -6,10 +6,10 @@ pip install mediapipe
 pip install opencv-python
 ```
 ```
-sudo pip install numpy
+pip install numpy
 ```
 ```
-sudo pip install math
+pip install math
 ```
 ## mediapipe
 ### Pose Landmarks
