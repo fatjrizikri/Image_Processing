@@ -14,9 +14,12 @@ sudo pip install math
 ## mediapipe
 ### Pose Landmarks
  Information from https://developers.google.com/mediapipe/solutions/vision/pose_landmarker
- #### Features:
+#### Features:
 - Input image processing - Processing includes image rotation, resizing, normalization, and color space conversion.
 - Score threshold - Filter results based on prediction scores.
+
+#### Configurations options
+This task has the following configuration options:
 
 ##### Information
 - if code use lib module you must save code module and your project to same file
