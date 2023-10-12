@@ -54,16 +54,10 @@ The pose landmarker model tracks 33 body landmark locations, representing the ap
 
 ### Hand landmarks detection
 information from https://developers.google.com/mediapipe/solutions/vision/hand_landmarker
-#### Features
-- Input image processing - Processing includes image rotation, resizing, normalization, and color space conversion.
-- Score threshold - Filter results based on prediction scores.
-#### Configurations options
-This task has the following configuration options:
-![image](https://github.com/fatjrizikri/Image_Processing/assets/66940604/5d3d369b-0cea-4be9-8fe2-f4bbe5c922c1)
 
 #### Models
 The Hand Landmarker uses a model bundle with two packaged models: a palm detection model and a hand landmarks detection model. You need a model bundle that contains both these models to run this task.
-![image](https://github.com/fatjrizikri/Image_Processing/assets/66940604/69fe16dd-7a09-4cae-a92e-110fe5253c25)
+![image](https://github.com/fatjrizikri/Image_Processing/assets/66940604/ac11f25c-1feb-4f4f-bd07-48f6632a3ebf)
 
 ### Face landmark detection
 information from https://developers.google.com/mediapipe/solutions/vision/face_landmarker
