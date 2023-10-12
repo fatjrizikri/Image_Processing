@@ -61,11 +61,7 @@ The Hand Landmarker uses a model bundle with two packaged models: a palm detecti
 
 ### Face landmark detection
 information from https://developers.google.com/mediapipe/solutions/vision/face_landmarker
-#### Features
-- Input image processing - Processing includes image rotation, resizing, normalization, and color space conversion.
-- Score threshold - Filter results based on prediction scores.
-#### Configurations options
-![image](https://github.com/fatjrizikri/Image_Processing/assets/66940604/20dcefff-a98f-48f7-bf6a-b0f6233bf4dc)
+
 #### Models
 The Face Landmarker uses a series of models to predict face landmarks. The first model detects faces, a second model locates landmarks on the detected faces, and a third model uses those landmarks to identify facial features and expressions.
 
@@ -74,8 +70,8 @@ The following models are packaged together into a downloadable model bundle:
 - Face detection model: detects the presence of faces with a few key facial landmarks.
 - Face mesh model: adds a complete mapping of the face. The model outputs an estimate of 478 3-dimensional face landmarks.
 - Blendshape prediction model: receives output from the face mesh model predicts 52 blendshape scores, which are coefficients representing facial different expressions.
+![image](https://github.com/fatjrizikri/Image_Processing/assets/66940604/f862bc18-e9cc-4854-a008-3cd17f50f4f5)
 
-![image](https://github.com/fatjrizikri/Image_Processing/assets/66940604/134d2318-423d-41e5-b2b8-0dffa6511ea0)
 
 
 ## Information
