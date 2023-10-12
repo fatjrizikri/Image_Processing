@@ -17,6 +17,8 @@ pip install math
  
 #### Pose landmarker model
 The pose landmarker model tracks 33 body landmark locations, representing the approximate location of the following body parts:
+##### ![image](https://github.com/fatjrizikri/Image_Processing/assets/66940604/4950e26d-d700-4ed5-965f-1b821d0dc3e5)
+
 - 0 - nose
 - 1 - left eye (inner)
 - 2 - left eye
@@ -57,7 +59,7 @@ information from https://developers.google.com/mediapipe/solutions/vision/hand_l
 
 #### Models
 The Hand Landmarker uses a model bundle with two packaged models: a palm detection model and a hand landmarks detection model. You need a model bundle that contains both these models to run this task.
-![image](https://github.com/fatjrizikri/Image_Processing/assets/66940604/ac11f25c-1feb-4f4f-bd07-48f6632a3ebf)
+##### ![image](https://github.com/fatjrizikri/Image_Processing/assets/66940604/ac11f25c-1feb-4f4f-bd07-48f6632a3ebf)
 
 ### Face landmark detection
 information from https://developers.google.com/mediapipe/solutions/vision/face_landmarker
@@ -70,7 +72,7 @@ The following models are packaged together into a downloadable model bundle:
 - Face detection model: detects the presence of faces with a few key facial landmarks.
 - Face mesh model: adds a complete mapping of the face. The model outputs an estimate of 478 3-dimensional face landmarks.
 - Blendshape prediction model: receives output from the face mesh model predicts 52 blendshape scores, which are coefficients representing facial different expressions.
-![image](https://github.com/fatjrizikri/Image_Processing/assets/66940604/f862bc18-e9cc-4854-a008-3cd17f50f4f5)
+##### ![image](https://github.com/fatjrizikri/Image_Processing/assets/66940604/f862bc18-e9cc-4854-a008-3cd17f50f4f5)
 
 
 
