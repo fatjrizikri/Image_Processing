@@ -14,18 +14,9 @@ pip install math
 ## mediapipe
 ### Pose Landmarks
  Information from https://developers.google.com/mediapipe/solutions/vision/pose_landmarker
-#### Features:
-- Input image processing - Processing includes image rotation, resizing, normalization, and color space conversion.
-- Score threshold - Filter results based on prediction scores.
-
-#### Configurations options
-This task has the following configuration options:
-![image](https://github.com/fatjrizikri/Image_Processing/assets/66940604/966ec868-1674-4492-b528-75bc5c69f75b)
  
 #### Pose landmarker model
 The pose landmarker model tracks 33 body landmark locations, representing the approximate location of the following body parts:
-![image](https://github.com/fatjrizikri/Image_Processing/assets/66940604/81fb5023-bc27-4130-b071-00d3070e5519)
-
 - 0 - nose
 - 1 - left eye (inner)
 - 2 - left eye
